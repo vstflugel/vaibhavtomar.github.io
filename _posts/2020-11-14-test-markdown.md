@@ -4,17 +4,15 @@
 > 
 > **Table of Contents**  
 > 
-> [Stack modification](https://vstflugel.github.io/vaibhavtomar.github.io//data_structures/stack_queue_modification.html#toc-tgt-0)
+> [Stack modification](https://vstflugel.github.io/vaibhavtomar.github.io/2020-11-14-test-markdown/#toc-tgt-0)
 > 
-> [Queue modification (method 1)](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-1)
+> [Queue modification (method 1)](https://vstflugel.github.io/vaibhavtomar.github.io/2020-11-14-test-markdown/#toc-tgt-1)
 > 
-> [Queue modification (method 2)](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-2)
+> [Queue modification (method 2)](https://vstflugel.github.io/vaibhavtomar.github.io/2020-11-14-test-markdown/#toc-tgt-2)
 > 
-> [Queue modification (method 3)](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-3)
+> [Queue modification (method 3)](https://vstflugel.github.io/vaibhavtomar.github.io/2020-11-14-test-markdown/#toc-tgt-3)
 > 
-> [Finding the minimum for all subarrays of fixed length](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-4)
-> 
-> [Practice Problems](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-5)
+> [Finding the minimum for all subarrays of fixed length](https://vstflugel.github.io/vaibhavtomar.github.io/2020-11-14-test-markdown/#toc-tgt-4)
 > 
 > In this article we will consider three problems: first we will modify a stack in a way that allows us to find the smallest element of the stack in O(1)
 > 
