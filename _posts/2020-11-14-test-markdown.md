@@ -1,6 +1,6 @@
 [Minimum stack / Minimum queue - Competitive Programming Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-2)
 
-> # Minimum stack / Minimum queue
+# Minimum stack / Minimum queue
 > 
 > **Table of Contents**  
 > 
@@ -20,7 +20,7 @@
 > 
 > O(n)
 > 
-> ## Stack modification
+## Stack modification
 > 
 > We want to modify the stack data structure in such a way, that it possible to find the smallest element in the stack in O(1)
 > 
@@ -49,12 +49,12 @@
 >     st.pop();
 >     
 > 
-> -   Finding the minimum:
+-   Finding the minimum:
 > 
 >     int minimum = st.top().second;
 >     
 > 
-> ## Queue modification (method 1)
+## Queue modification (method 1)
 > 
 > Now we want to achieve the same operations with a queue, i.e. we want to add elements at the end and remove them from the front.
 > 
@@ -79,7 +79,7 @@
 >     q.push_back(new_element);
 >     
 > 
-> -   Removing an element:
+-   Removing an element:
 > 
 >     if (!q.empty() && q.front() == remove_element)
 >         q.pop_front();
@@ -89,7 +89,7 @@
 > 
 > O(1) time (because every element can only be pushed and popped once).
 > 
-> ## Queue modification (method 2)
+## Queue modification (method 2)
 > 
 > This is a modification of method 1. We want to be able to remove elements without knowing which element we have to remove. We can accomplish that by storing the index for each element in the queue. And we also remember how many elements we already have added and removed.
 > 
@@ -118,7 +118,7 @@
 >     cnt_removed++;
 >     
 > 
-> ## Queue modification (method 3)
+## Queue modification (method 3)
 > 
 > Here we consider another way of modifying a queue to find the minimum in O(1)
 > 
@@ -153,7 +153,7 @@
 >     s1.push({new_element, minimum});
 >     
 > 
-> -   Removing an element:
+-   Removing an element:
 > 
 >     if (s2.empty()) {
 >         while (!s1.empty()) {
