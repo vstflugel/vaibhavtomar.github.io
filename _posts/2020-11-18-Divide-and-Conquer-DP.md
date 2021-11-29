@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Restore
-subtitle: Restore previous system state
-tags: [backup, restore, restore previous setting]
+title: Divide and Conquer DP
+subtitle: Dynamic Programming
+tags: [DP, divide and conquer]
 comments: true
 ---
 
