@@ -12,8 +12,8 @@ comments: true
 >`Dynamic Programming`:- Dynamic programming is method to quickly solve large problems by first solving intermediate problems, then using these intermediate problems to solve the large problem.
 >
 > * Shortest and longest Path in DAGS Shortest Path in DAG The result of this algorithm will be an array of values where each value is the shortest path in the DAG from s to the vertex corresponding to that index in the array. To calculate the value in location i, this algorithm takes O(i) time. Summed over all locations in the array, the running time is O(n2). In general, we solve dynamic programs in the following two steps
->    * Come up with a table
->    * Move in the table so that we solve a problem whose required subproblems have all been solved already
+>* Come up with a table
+>* Move in the table so that we solve a problem whose required subproblems have all been solved already
 >
 >`Longest increasing subsequence` Greedy algorithm are based on greedy choice and optimum substructure. Shortect path in directed acyclic graph. Topological Sorting. Hamultonion path are the longest path. Hamultonion paths are also NP-Complete. What is the meaning of NP-Complete?
 >

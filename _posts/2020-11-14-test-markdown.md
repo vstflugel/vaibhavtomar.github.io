@@ -1,4 +1,3 @@
-[Minimum stack / Minimum queue - Competitive Programming Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html#toc-tgt-2)
 
 # Minimum stack / Minimum queue
 > 
